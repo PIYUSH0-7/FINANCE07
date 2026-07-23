@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Automate your savings and investments to minimize decision fatigue and eliminate emotional trading.
+Pay yourself first, build an emergency buffer, and let compound interest do the heavy lifting over time.
 
-*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
