@@ -4,7 +4,7 @@
 
 Automate your savings and investments to minimize decision fatigue and eliminate emotional trading.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
